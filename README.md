@@ -1,0 +1,1 @@
+An AI-driven pipeline for modeling plant survival under combined drought and pathogen stress using synthetic multi-omics time-series data. Identifies causal lipid–redox–gene networks, prioritizes CRISPR editing targets, and visualizes key features over time.
